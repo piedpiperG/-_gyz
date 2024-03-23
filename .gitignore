@@ -1,0 +1,8 @@
+text-smi/__pycache__/
+text-smi/bert_model/bert-base-chinese
+text-smi/model/model.pth
+text-smi/model/model_0.pth
+text-smi/word2vec/reduce_zhiwiki.txt
+text-smi/word2vec/vectors.bin
+text-smi/word2vec/vectors.bin.syn1neg.npy
+text-smi/word2vec/vectors.bin.wv.vectors.npy
